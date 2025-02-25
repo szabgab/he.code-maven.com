@@ -1,0 +1,8 @@
+[book]
+authors = ["Gabor Szabo"]
+text-direction = "rtl"
+language = "he"
+src = "src"
+title = "מביני קוד בעברית"
+
+[preprocessor.embedify]
