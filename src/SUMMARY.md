@@ -37,3 +37,27 @@
     - [סדנא קוד פתוח לסגל של מכללת עזריאלי חלק 2-1](./osdc-workshop-at-azrieli-part-2-1.md)
     - [סדנא קוד פתוח לסגל של מכללת עזריאלי חלק 2-2](./osdc-workshop-at-azrieli-part-2-2.md)
 
+  - [קורס תכנות קוד פתוח - ינואר 2023](./osdc-public-hebrew-2023-01.md)
+    - [קורס תכנות קוד פתוח - פרק 1](./osdc-public-hebrew-2023-01-part-1.md)
+    - [קורס תכנות קוד פתוח - פרק 2-1](./osdc-public-hebrew-2023-01-part-2-1.md)
+    - [קורס תכנות קוד פתוח - פרק 2-2](./osdc-public-hebrew-2023-01-part-2-2.md)
+    - [קורס תכנות קוד פתוח - פרק 3-1](./osdc-public-hebrew-2023-01-part-3-1.md)
+    - [קורס תכנות קוד פתוח - פרק 3-2](./osdc-public-hebrew-2023-01-part-3-2.md)
+    - [קורס תכנות קוד פתוח - פרק 4-1](./osdc-public-hebrew-2023-01-part-4-1.md)
+    - [קורס תכנות קוד פתוח - פרק 4-2](./osdc-public-hebrew-2023-01-part-4-2.md)
+    - [קורס תכנות קוד פתוח - פרק 5-1](./osdc-public-hebrew-2023-01-part-5-1.md)
+    - [קורס תכנות קוד פתוח - פרק 5-2](./osdc-public-hebrew-2023-01-part-5-2.md)
+    - [קורס תכנות קוד פתוח - פרק 6-1](./osdc-public-hebrew-2023-01-part-6-1.md)
+    - [קורס תכנות קוד פתוח - פרק 6-2](./osdc-public-hebrew-2023-01-part-6-2.md)
+    - [קורס תכנות קוד פתוח - פרק 7-1](./osdc-public-hebrew-2023-01-part-7-1.md)
+    - [קורס תכנות קוד פתוח - פרק 7-2](./osdc-public-hebrew-2023-01-part-7-2.md)
+    - [קורס תכנות קוד פתוח - פרק 8-1](./osdc-public-hebrew-2023-01-part-8-1.md)
+    - [קורס תכנות קוד פתוח - פרק 8-2](./osdc-public-hebrew-2023-01-part-8-2.md)
+    - [קורס תכנות קוד פתוח - פרק 9-1](./osdc-public-hebrew-2023-01-part-9-1.md)
+    - [קורס תכנות קוד פתוח - פרק 9-2](./osdc-public-hebrew-2023-01-part-9-2.md)
+    - [קורס תכנות קוד פתוח - פרק 10-1](./osdc-public-hebrew-2023-01-part-10-1.md)
+    - [קורס תכנות קוד פתוח - פרק 10-2](./osdc-public-hebrew-2023-01-part-10-2.md)
+
+
+
+
