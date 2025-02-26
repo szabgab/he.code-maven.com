@@ -9,11 +9,10 @@ Scratch
 
 תהנו
 
-
-1. [הצעדים הראשונים עם סקראץ](/scratch-1-first-steps)
-1. [שמירת יצירה שלנו בסקראץ](/scratch-2-download-our-work)
-1. [הוספת דמות שנייה בסקראץ](/scratch-3-adding-a-second-sprite)
-1. [שימוש במקשים בסקראץ](/scratch-4-keyboard)
+1. [הצעדים הראשונים עם סקראץ](./scratch-1-first-steps.md)
+1. [שמירת יצירה שלנו בסקראץ](./scratch-2-download-our-work.md)
+1. [הוספת דמות שנייה בסקראץ](./scratch-3-adding-a-second-sprite.md)
+1. [שימוש במקשים בסקראץ](./scratch-4-keyboard.md)
 
 
 סרטונים נוספים נמצאים באתר [סקראץ ישראלי](http://www.scratch.org.il/)
