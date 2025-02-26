@@ -84,4 +84,17 @@
     - [קורס תכנות קוד פתוח - פרק 13-1](./osdc-2023-03-azrieli-13-1.md)
     - [קורס תכנות קוד פתוח - פרק 13-2](./osdc-2023-03-azrieli-13-2.md)
 
+  - [חיפוש עבודה בהייטק](./job-search.md)
+    - [עבודה בקופסה הכי גדולה באינטרנט- שיחה עם עמרי גרינפלד מחברת Dropbox](./work-at-dropbox.md)
+    - [עבודה בקוואלקום ישראל? שיחה עם עומר מרגלית](./work-at-qualcomm.md)
+    - [שני הצדדים של המטבע - שיחה עם דנה פורה](./hr-manager-looking-for-a-job-dana-poreh.md)
+    - [חיפוש עבודה בהייטק ובביואינפורמטיקה - שיחה עם אתי לייבזון](./find-a-job-webinar-with-ety-leibson.md)
+    - [עבודה מרוחקת - חברה ללא משרדים - גיטלאב עם אורית גולובינסקי](./remote-work-at-gitlab-with-orit-golowinski.md)
+    - [שיחה עם מיכל מירוני מנטורית קריירה בהייטק](./hi-tech-career-with-michal-mironi.md)
+    - [חיפוש עבודה בהייטק - שיחה עם תדהר מגריזו מנהלת גיוס בחברת Localize.city](./find-a-job-webinar-with-tidhar-magriso.md)
+    - [חיפוש עבודה בהייטק - עם קרן ארזי מנהלת משאבי אנוש של StoreMaven](./find-a-job-webinar-storemaven-with-keren-arazi.md)
+    - [איך למצוא עבודה בהיי-טק - נקודת מבט של דנית רענן אידסס, מנהלת משאבי אנוש](./find-a-job-webinar-with-danit-raanan-ideses.md)
+
+
+
 
