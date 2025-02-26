@@ -29,7 +29,7 @@
 * [כתיבת תוכנה חופשית גם לאנשים שאינם מתכנתים](https://git-he.code-maven.com/collab-dev)
 * [קורס תכנות פייתון (python)](https://python-he.code-maven.com/python)
 * [קורס טסטינג בפייתון (python testing)](https://python-he.code-maven.com/python-testing)
-* [סביבת פיתוח במערכת חלונות (Windows)](/windows)
+* [סביבת פיתוח במערכת חלונות (Windows)](./windows.md)
 
 ## פודקסט
 * [פודקסט לאנשים שרוצים להיכנס לעולם ההיי-טק או רוצים להתקדם בו](./podcast.md)

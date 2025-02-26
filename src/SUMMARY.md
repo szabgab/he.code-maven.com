@@ -25,6 +25,9 @@
     - [שמירת יצירה שלנו בסקאץ](./scratch-2-download-our-work.md)
     - [הוספת דמות שנייה בסקראץ](./scratch-3-adding-a-second-sprite.md)
     - [שימוש במקשים בסקראץ](./scratch-4-keyboard.md)
-
+  - [סביבת פיתוח במערכת חלונות](./windows.md)
+    - [קונפיגורציה של שורת הפקודות של מערכת חלונות Windows CMD configuration](./windows-cmd-configuration.md)
+    - [ספריות משורת הפקודות בערכת חלונאית - פרק א](./windows-cmd-directories-1.md)
+    - [Windows CMD: Directories - 2](./windows-cmd-directories-2.md)
 
 
