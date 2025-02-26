@@ -13,3 +13,12 @@
     - [Deploy Docker to the cloud - Digital Ocean or Linode](./deploy-docker.md)
     - [Docker and busybox](./docker-and-busybox.md)
     - [למה להשתמש בדוקר?](./docker-why.md)
+
+  - [Podcast](./podcast.md)
+    - [Podcast #1: ברוכים הבאים והבאות לפודקאסט של מביני קוד](./podcast-1-welcome.md)
+    - [Podcast #2: מה זה פודקאסט ואיך אפשר לשמוע אותו?](./podcast-2-what-is-a-podcast.md)
+    - [Podcast #3: מי יכול להיות מתכנת או מתכנתת? אילו תכונות אישיות צריך?](./podcast-3-what-is-needed-to-become-a-programmer.md)
+    - [Podcast #4: מה זאת אומרת שפות תוכנה?](./podcast-4-what-are-programming-languages.md)
+    - [Podcast #5: פרונט-אנד, בק-אנד](./podcast-5-front-end-back-end.md)
+
+
