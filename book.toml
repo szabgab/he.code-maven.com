@@ -6,3 +6,6 @@ src = "src"
 title = "מביני קוד בעברית"
 
 [preprocessor.embedify]
+footer.enable = true
+footer.message = "Copyright © 2025 • Created with ❤️  by [Gábor Szabó](https://github.com/szabgab)"
+
