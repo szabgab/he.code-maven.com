@@ -24,7 +24,7 @@
 * [קורס ראסט (Rust)](https://rust-he.code-maven.com/rust)
 * [ניהול גרסאות עם גיט (git)](https://git-he.code-maven.com/git)
 * [קורס תכנות קוד פתוח שהועבר בתחילת 2023](./osdc-public-hebrew-2023-01.md)
-* [קורס תכנות קוד פתוח שהועבר במכללת עזראלי שבירושלים בסמסטר אביב 2023](/osdc-2023-03-azrieli)
+* [קורס תכנות קוד פתוח שהועבר במכללת עזראלי שבירושלים בסמסטר אביב 2023](./osdc-2023-03-azrieli.md)
 * [סדנא קוד פתוח לסגל של מכללת עזריאלי 2023](./osdc-workshop-at-azrieli.md)
 * [כתיבת תוכנה חופשית גם לאנשים שאינם מתכנתים](https://git-he.code-maven.com/collab-dev)
 * [קורס תכנות פייתון (python)](https://python-he.code-maven.com/python)
