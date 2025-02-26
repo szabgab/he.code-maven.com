@@ -25,7 +25,7 @@
 * [ניהול גרסאות עם גיט (git)](https://git-he.code-maven.com/git)
 * [קורס תכנות קוד פתוח שהועבר בתחילת 2023](/osdc-public-hebrew-2023-01)
 * [קורס תכנות קוד פתוח שהועבר במכללת עזראלי שבירושלים בסמסטר אביב 2023](/osdc-2023-03-azrieli)
-* [סדנא קוד פתוח לסגל של מכללת עזריאלי 2023](/osdc-workshop-at-azrieli)
+* [סדנא קוד פתוח לסגל של מכללת עזריאלי 2023](./osdc-workshop-at-azrieli.md)
 * [כתיבת תוכנה חופשית גם לאנשים שאינם מתכנתים](https://git-he.code-maven.com/collab-dev)
 * [קורס תכנות פייתון (python)](https://python-he.code-maven.com/python)
 * [קורס טסטינג בפייתון (python testing)](https://python-he.code-maven.com/python-testing)
