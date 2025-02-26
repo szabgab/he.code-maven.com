@@ -20,5 +20,11 @@
     - [Podcast #3: מי יכול להיות מתכנת או מתכנתת? אילו תכונות אישיות צריך?](./podcast-3-what-is-needed-to-become-a-programmer.md)
     - [Podcast #4: מה זאת אומרת שפות תוכנה?](./podcast-4-what-are-programming-languages.md)
     - [Podcast #5: פרונט-אנד, בק-אנד](./podcast-5-front-end-back-end.md)
+  - [סקראץ'](./scratch.md)
+    - [הצעדים הראשונים עם סקראץ](./scratch-1-first-steps.md)
+    - [שמירת יצירה שלנו בסקאץ](./scratch-2-download-our-work.md)
+    - [הוספת דמות שנייה בסקראץ](./scratch-3-adding-a-second-sprite.md)
+    - [שימוש במקשים בסקראץ](./scratch-4-keyboard.md)
+
 
 
