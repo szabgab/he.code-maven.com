@@ -106,5 +106,14 @@
   - [הטכנולוגיה מאחורי יצירת מילון לאדינו - לימים קנטוניקו](./technology-behind-kantoniko.md)
   - [בדיקת פרונט-אנד של ראקט עם ינון פרק](./front-end-testing-of-react.md)
 
+  - [עבודה בזוגות והרצאות בשידור חי](./live.md)
+    - [פיתוח תוכנה בזוגות בראסט עם שי ברגר](./live-with-shai-berger.md)
 
-
+  - [סדנאות של מביני קוד](./workshops.md)
+  - [איך להשתמש בסלאק](./how-to-use-slack.md)
+  - [לצבור ניסיון עבודה דרך תוכנות חופשיות - ליברה אופיס](./libre-office-noncode.md)
+  - [הקשרים שלכם בלינקדין שווים זהב](./linkedin-connections.md)
+  - [איך להשתמש בלינקדאין למציאת עבודה בהיי-טק או בתחום אחר](./linkedin-for-jobs.md)
+  - [המלצות לדף לינקדין למפתח בקאנד - ביקורת בונת](./recommendations-for-linkedin-by-danit-raanan-ideses.md)
+  - [StoreMaven using LNRD - with Rotem Vil](./storemaven-using-lnrd-with-rotem-vil.md)
+  - [YouTube](./youtube.md)
