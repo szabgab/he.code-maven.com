@@ -117,3 +117,4 @@
   - [המלצות לדף לינקדין למפתח בקאנד - ביקורת בונת](./recommendations-for-linkedin-by-danit-raanan-ideses.md)
   - [StoreMaven using LNRD - with Rotem Vil](./storemaven-using-lnrd-with-rotem-vil.md)
   - [YouTube](./youtube.md)
+  - [קורסים](./courses.md)
