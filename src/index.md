@@ -20,7 +20,7 @@
 
 ## קורסים מוקלטים וקורסים בתהליך הקלטה
 
-* [דוקר (Docker)](/docker)
+* [דוקר (Docker)](./docker.md)
 * [קורס ראסט (Rust)](https://rust-he.code-maven.com/rust)
 * [ניהול גרסאות עם גיט (git)](https://git-he.code-maven.com/git)
 * [קורס תכנות קוד פתוח שהועבר בתחילת 2023](./osdc-public-hebrew-2023-01.md)

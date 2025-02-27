@@ -95,6 +95,16 @@
     - [חיפוש עבודה בהייטק - עם קרן ארזי מנהלת משאבי אנוש של StoreMaven](./find-a-job-webinar-storemaven-with-keren-arazi.md)
     - [איך למצוא עבודה בהיי-טק - נקודת מבט של דנית רענן אידסס, מנהלת משאבי אנוש](./find-a-job-webinar-with-danit-raanan-ideses.md)
 
+  - [ויקיפדיה](./wikipedia.md)
+    - [איך לערוך דף בויקיפדיה?](./edit-wikipedia.md)
+
+  - [איך לצבור ניסיון עבודה עם תוכנה חופשית - נוטפד פלוס פלוס](./open-source-notepad-plus-plus.md)
+  - [Cloud-based Continuous Integration using Travis-CI](./travis-ci-introduction-webinar.md)
+  - [Travis-CI: Why use Continuous Integration?](./travis-ci-why-use-continuous-integration.md)
+  - [אם כל אחד יכול לשנות קוד פתוח אז איך אפשר לסמוך על זה?](./open-source-anyone-can-change-but-central-control.md)
+  - [נוטפד פלוס פלוס](./notepad-plus-plus-nocode.md)
+  - [הטכנולוגיה מאחורי יצירת מילון לאדינו - לימים קנטוניקו](./technology-behind-kantoniko.md)
+  - [בדיקת פרונט-אנד של ראקט עם ינון פרק](./front-end-testing-of-react.md)
 
 
 
