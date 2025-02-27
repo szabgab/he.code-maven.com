@@ -21,17 +21,19 @@
 ## קורסים מוקלטים וקורסים בתהליך הקלטה
 
 * [דוקר (Docker)](./docker.md)
-* [קורס ראסט (Rust)](https://rust-he.code-maven.com/rust)
-* [ניהול גרסאות עם גיט (git)](https://git-he.code-maven.com/git)
 * [קורס תכנות קוד פתוח שהועבר בתחילת 2023](./osdc-public-hebrew-2023-01.md)
 * [קורס תכנות קוד פתוח שהועבר במכללת עזראלי שבירושלים בסמסטר אביב 2023](./osdc-2023-03-azrieli.md)
 * [סדנא קוד פתוח לסגל של מכללת עזריאלי 2023](./osdc-workshop-at-azrieli.md)
-* [כתיבת תוכנה חופשית גם לאנשים שאינם מתכנתים](https://git-he.code-maven.com/collab-dev)
-* [קורס תכנות פייתון (python)](https://python-he.code-maven.com/python)
-* [קורס טסטינג בפייתון (python testing)](https://python-he.code-maven.com/python-testing)
 * [סביבת פיתוח במערכת חלונות (Windows)](./windows.md)
 
+* [קורס ראסט (Rust)](https://rust-he.code-maven.com/rust)
+* [קורס תכנות פייתון (python)](https://python-he.code-maven.com/python)
+* [קורס טסטינג בפייתון (python testing)](https://python-he.code-maven.com/python-testing)
+* [ניהול גרסאות עם גיט (git)](https://git-he.code-maven.com/git)
+* [כתיבת תוכנה חופשית גם לאנשים שאינם מתכנתים](https://git-he.code-maven.com/collab-dev)
+
 ## פודקסט
+
 * [פודקסט לאנשים שרוצים להיכנס לעולם ההיי-טק או רוצים להתקדם בו](./podcast.md)
 
 
@@ -53,13 +55,6 @@
 * גיטהוב (GitHub)
 * גיטלב (Gitlab)
 * ביטבאקט (BitBucket)
--->
-
-<!--
-## לוח זמנים של הקורסים הבאים
-* <a href="https://www.eventbrite.com/e/testing-in-python-using-pytest-hebrew-course-tickets-103043606200"><span>2020.05.17</span> קורס טסטינג בפייתון</a>
-* <a href="https://www.eventbrite.com/e/on-line-docker-course-in-hebrew--tickets-102787325658"><span>2020.05.03</span> קורס דוקר</a>
-* <a href=""><span></span></a>
 -->
 
 <meta property='og:image' content="/static/img/courses.png" />
