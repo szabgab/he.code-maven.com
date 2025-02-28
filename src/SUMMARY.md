@@ -1,6 +1,7 @@
 # Summary
 
 - [מביני קוד בעברית](./index.md)
+
   - [Docker - דוקר](./docker.md)
     - [למה להשתמש בדוקר?](./why-use-docker.md)
     - [מה זה דוקר?](./what-is-docker.md)
@@ -9,9 +10,9 @@
     - [דוקר דסקטום והמנוע של דוקר](./docker-desktop-client-engine.md)
     - [דוקר רגיסטרי](./docker-registry.md)
     - [שלום עולם! עם דוקר](./hello-world-with-docker.md)
-    - [מיפוי של ספריה על ההוסט לספריה בתוך קונטיניר](./docker-mounting-external-folder.md)
     - [Deploy Docker to the cloud - Digital Ocean or Linode](./deploy-docker.md)
     - [Docker and busybox](./docker-and-busybox.md)
+    - [מיפוי של ספריה על ההוסט לספריה בתוך קונטיניר](./docker-mounting-external-folder.md)
     - [למה להשתמש בדוקר?](./docker-why.md)
 
   - [Podcast](./podcast.md)
@@ -25,6 +26,7 @@
     - [שמירת יצירה שלנו בסקאץ](./scratch-2-download-our-work.md)
     - [הוספת דמות שנייה בסקראץ](./scratch-3-adding-a-second-sprite.md)
     - [שימוש במקשים בסקראץ](./scratch-4-keyboard.md)
+
   - [סביבת פיתוח במערכת חלונות](./windows.md)
     - [קונפיגורציה של שורת הפקודות של מערכת חלונות Windows CMD configuration](./windows-cmd-configuration.md)
     - [ספריות משורת הפקודות בערכת חלונאית - פרק א](./windows-cmd-directories-1.md)
@@ -94,6 +96,8 @@
     - [חיפוש עבודה בהייטק - שיחה עם תדהר מגריזו מנהלת גיוס בחברת Localize.city](./find-a-job-webinar-with-tidhar-magriso.md)
     - [חיפוש עבודה בהייטק - עם קרן ארזי מנהלת משאבי אנוש של StoreMaven](./find-a-job-webinar-storemaven-with-keren-arazi.md)
     - [איך למצוא עבודה בהיי-טק - נקודת מבט של דנית רענן אידסס, מנהלת משאבי אנוש](./find-a-job-webinar-with-danit-raanan-ideses.md)
+    - [המלצות לדף לינקדין למפתח בקאנד - ביקורת בונת](./recommendations-for-linkedin-by-danit-raanan-ideses.md)
+    - [StoreMaven using LNRD - with Rotem Vil](./storemaven-using-lnrd-with-rotem-vil.md)
 
   - [ויקיפדיה](./wikipedia.md)
     - [איך לערוך דף בויקיפדיה?](./edit-wikipedia.md)
@@ -114,7 +118,5 @@
   - [לצבור ניסיון עבודה דרך תוכנות חופשיות - ליברה אופיס](./libre-office-noncode.md)
   - [הקשרים שלכם בלינקדין שווים זהב](./linkedin-connections.md)
   - [איך להשתמש בלינקדאין למציאת עבודה בהיי-טק או בתחום אחר](./linkedin-for-jobs.md)
-  - [המלצות לדף לינקדין למפתח בקאנד - ביקורת בונת](./recommendations-for-linkedin-by-danit-raanan-ideses.md)
-  - [StoreMaven using LNRD - with Rotem Vil](./storemaven-using-lnrd-with-rotem-vil.md)
   - [YouTube](./youtube.md)
   - [קורסים](./courses.md)
