@@ -5,7 +5,7 @@
 * Wikipedia
 * ויקופדיה
 
-{% emed youtube id="kVSH1XgibAU" file="hebrew-how-to-edit-wikipedia" %}
+{% embed youtube id="kVSH1XgibAU" file="hebrew-how-to-edit-wikipedia" %}
 
 [ויקיפדיה בעברית](https://he.wikipedia.org/)
 
