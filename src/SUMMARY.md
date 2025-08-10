@@ -120,3 +120,5 @@
   - [איך להשתמש בלינקדאין למציאת עבודה בהיי-טק או בתחום אחר](./linkedin-for-jobs.md)
   - [YouTube](./youtube.md)
   - [קורסים](./courses.md)
+  - [מבוא לגרפיקה וקטורית SVG](./introduction-to-vector-graphics-with-svg.md)
+
